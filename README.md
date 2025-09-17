@@ -1,9 +1,10 @@
+<h1 align="center">Hi there 👋 I'm Afifah Khoirunnisa 🌸 </h1>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdia21wd3V2M3h0bGd0dXh6Z29oYzB0bjZ1c3hncGF4MHF3a3QwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" alt="Coding Cat">
 </p>
 
-# Hi there 👋 I'm Afifah Khoirunnisa 🌸  
 
 🎓 Informatics Engineering student @ **State Polytechnic of Malang**  
 💻 Exploring Data + Machine Learning  

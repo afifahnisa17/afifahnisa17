@@ -9,29 +9,23 @@
 💻 Exploring Data + Machine Learning  
 📚 Bookworm + Drama China fan 🎬  
 ✨ Organization life + coding balance seeker 🧩  
+📝 Interested in creative writing  
 
 ---
 
-## 🌈 Fun Facts About Me
-- ☕ I can't drink coffeee  
-- 📖 Can spend hours reading novels  
-- 🎶 Love discovering chill music while coding  
-- 🎬 Currently addicted to Chinese dramas  
-- 📝 Interested in creative writing  
-
----
 
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 

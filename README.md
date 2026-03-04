@@ -1,35 +1,25 @@
-<h1 align="center">Hi there 👋 I'm Afifah🌸 </h1>
+<h1 align="center">Hi there 👋 I'm Afifah 🌸</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdia21wd3V2M3h0bGd0dXh6Z29oYzB0bjZ1c3hncGF4MHF3a3QwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" alt="Coding Cat">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdia21wd3V2M3h0bGd0dXh6Z29oYzB0bjZ1c3hncGF4MHF3a3QwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="280">
 </p>
 
-🎓 Informatics Engineering student @ **State Polytechnic of Malang** 💻 Exploring Data + Machine Learning  
-📚 Bookworm + Drama China fan 🎬  
-✨ Dreaming peaceful life + coding balance seeker 🧩  
-📝 Interested in creative writing  
+<p align="center">
+  <b>Informatics Engineering Student | Data Enthusiast</b> <br>
+  <i>"Seeking the intersection between data insights and peaceful coding."</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifahnisa17&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Afifah's GitHub stats](https://github-readme-stats.vercel.app/api?username=afifahnisa17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afifahnisa17&layout=compact&theme=radical)
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifah-khoirunnisa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afifahnisaa__/)
 
----
-
-✨ *“Keep learning, keep growing, and don’t forget to smile while coding 😄”*
+<p align="center"> ✨ <i>Keep learning, keep growing, and don’t forget to smile while coding 😄</i> </p>
